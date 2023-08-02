@@ -34,13 +34,13 @@ The application is built using the following technologies:
 4. Update the database details in the user and Admin folder.
 5. Once all Done your application is ready.
 
-   #images
+## Images
 ![Project](images/1.png)
 ![Project](images/2.png)
 ![Project](images/3.png)
 
 
-#Login Details
+## Login Details
 username: admin
 password: admin
 
